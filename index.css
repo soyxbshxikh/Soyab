@@ -12,7 +12,7 @@ body {
 
 .container span {
   font-size: 200px;
-  color: #ff2876;
+  color: #ff0000;
   position: relative;
   text-shadow: -1px 0 0 rgba(0, 0, 0, 0.2);
 }
