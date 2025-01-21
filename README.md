@@ -1,4 +1,4 @@
-# Soyab name Documentation
+# Soyab Documentation
 
 ## Overview
 This project comprises a simple HTML file and an accompanying CSS file. The purpose of this project is to demonstrate the creation of a visually appealing representation of the letters in the word "SOYAB" using CSS transformations and animations.
